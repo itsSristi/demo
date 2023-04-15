@@ -1,7 +1,0 @@
-
-ame: raju 
- marks:32
-ame: ram 
- marks:54
-ame: shyam 
- marks:78
